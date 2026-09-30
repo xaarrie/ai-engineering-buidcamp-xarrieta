@@ -1,0 +1,12 @@
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\DocumentIngestion\bin\Debug\net10.0\DocumentIngestion.deps.json
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\DocumentIngestion\bin\Debug\net10.0\DocumentIngestion.dll
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\DocumentIngestion\bin\Debug\net10.0\DocumentIngestion.pdb
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\DocumentIngestion\obj\Debug\net10.0\DocumentIngestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\DocumentIngestion\obj\Debug\net10.0\DocumentIngestion.AssemblyInfoInputs.cache
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\DocumentIngestion\obj\Debug\net10.0\DocumentIngestion.AssemblyInfo.cs
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\DocumentIngestion\obj\Debug\net10.0\DocumentIngestion.csproj.CoreCompileInputs.cache
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\DocumentIngestion\obj\Debug\net10.0\DocumentIngestion.sourcelink.json
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\DocumentIngestion\obj\Debug\net10.0\DocumentIngestion.dll
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\DocumentIngestion\obj\Debug\net10.0\refint\DocumentIngestion.dll
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\DocumentIngestion\obj\Debug\net10.0\DocumentIngestion.pdb
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\DocumentIngestion\obj\Debug\net10.0\ref\DocumentIngestion.dll

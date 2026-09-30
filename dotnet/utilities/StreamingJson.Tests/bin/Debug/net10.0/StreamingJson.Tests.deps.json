@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "StreamingJson.Tests/1.0.0": {
+        "dependencies": {
+          "StreamingJson": "1.0.0"
+        },
+        "runtime": {
+          "StreamingJson.Tests.dll": {}
+        }
+      },
+      "StreamingJson/1.0.0": {
+        "runtime": {
+          "StreamingJson.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StreamingJson.Tests/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StreamingJson/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

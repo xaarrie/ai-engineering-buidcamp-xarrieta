@@ -1,0 +1,12 @@
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\RagSupport\bin\Debug\net10.0\RagSupport.deps.json
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\RagSupport\bin\Debug\net10.0\RagSupport.dll
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\RagSupport\bin\Debug\net10.0\RagSupport.pdb
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\RagSupport\obj\Debug\net10.0\RagSupport.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\RagSupport\obj\Debug\net10.0\RagSupport.AssemblyInfoInputs.cache
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\RagSupport\obj\Debug\net10.0\RagSupport.AssemblyInfo.cs
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\RagSupport\obj\Debug\net10.0\RagSupport.csproj.CoreCompileInputs.cache
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\RagSupport\obj\Debug\net10.0\RagSupport.sourcelink.json
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\RagSupport\obj\Debug\net10.0\RagSupport.dll
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\RagSupport\obj\Debug\net10.0\refint\RagSupport.dll
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\RagSupport\obj\Debug\net10.0\RagSupport.pdb
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\RagSupport\obj\Debug\net10.0\ref\RagSupport.dll

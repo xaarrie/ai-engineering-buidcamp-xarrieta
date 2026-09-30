@@ -1,0 +1,12 @@
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\StreamingJson\bin\Debug\net10.0\StreamingJson.deps.json
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\StreamingJson\bin\Debug\net10.0\StreamingJson.dll
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\StreamingJson\bin\Debug\net10.0\StreamingJson.pdb
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\StreamingJson\obj\Debug\net10.0\StreamingJson.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\StreamingJson\obj\Debug\net10.0\StreamingJson.AssemblyInfoInputs.cache
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\StreamingJson\obj\Debug\net10.0\StreamingJson.AssemblyInfo.cs
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\StreamingJson\obj\Debug\net10.0\StreamingJson.csproj.CoreCompileInputs.cache
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\StreamingJson\obj\Debug\net10.0\StreamingJson.sourcelink.json
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\StreamingJson\obj\Debug\net10.0\StreamingJson.dll
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\StreamingJson\obj\Debug\net10.0\refint\StreamingJson.dll
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\StreamingJson\obj\Debug\net10.0\StreamingJson.pdb
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\StreamingJson\obj\Debug\net10.0\ref\StreamingJson.dll

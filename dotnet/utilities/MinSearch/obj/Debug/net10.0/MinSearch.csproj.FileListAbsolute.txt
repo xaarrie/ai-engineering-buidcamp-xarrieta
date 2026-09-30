@@ -1,0 +1,12 @@
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\MinSearch\bin\Debug\net10.0\MinSearch.deps.json
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\MinSearch\bin\Debug\net10.0\MinSearch.dll
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\MinSearch\bin\Debug\net10.0\MinSearch.pdb
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\MinSearch\obj\Debug\net10.0\MinSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\MinSearch\obj\Debug\net10.0\MinSearch.AssemblyInfoInputs.cache
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\MinSearch\obj\Debug\net10.0\MinSearch.AssemblyInfo.cs
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\MinSearch\obj\Debug\net10.0\MinSearch.csproj.CoreCompileInputs.cache
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\MinSearch\obj\Debug\net10.0\MinSearch.sourcelink.json
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\MinSearch\obj\Debug\net10.0\MinSearch.dll
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\MinSearch\obj\Debug\net10.0\refint\MinSearch.dll
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\MinSearch\obj\Debug\net10.0\MinSearch.pdb
+C:\Data\formacion\ai-engineering-buildcamp\dotnet\utilities\MinSearch\obj\Debug\net10.0\ref\MinSearch.dll
