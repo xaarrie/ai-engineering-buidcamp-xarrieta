@@ -40,10 +40,10 @@ The agent lessons currently exist only as Python notebooks. Learners following t
   - Route: delegated direct; combines a lesson migration with existing ingestion, lexical-index, and context-formatting utilities.
   - Acceptance: a standalone lesson contrasts manual RAG with a tool-enabled agent, uses typed output, handles no-result retrieval, and has deterministic offline verification for the local RAG/tool path.
   - Checks: compile the file app; run offline fixtures; do not call external services.
-  - Evidence: `dotnet build "dotnet/03-Agents/AgenticRAG_v1_dotnet.cs"` succeeded after local NuGet restore; `dotnet run --file "dotnet/03-Agents/AgenticRAG_v1_dotnet.cs" -- --verify` passed retrieval success/no-result/validation, deterministic context, and typed-contract serialization checks. Live model/API, GitHub, and document-download execution was intentionally not run.
+  - Evidence: `dotnet build "dotnet/03-Agents/AgenticRAG_v1_dotnet.cs"` succeeded after local NuGet restore; `dotnet run --file "dotnet/03-Agents/AgenticRAG_v1_dotnet.cs" -- --verify` passed retrieval success/no-result/validation, deterministic context, and typed-contract serialization checks. Live model/API, GitHub, and document-download execution was intentionally not run. Commit: `79417df` (`feat(agents): add Agentic RAG .NET lesson`).
 
 ## Progress
 
 - Exploration complete: two Python notebooks map to `AgenticLoop_dotnet.cs` and `AgenticRAG_v1_dotnet.cs`.
 - Current Agent Framework evidence confirms `ChatClientAgent` accepts `IList<AITool>` and function tools can be built with `AIFunctionFactory`.
-- ODD-006a is complete in `d33aeaf`; ODD-006b is implemented, verified offline, and ready for its work-unit commit.
+- ODD-006a is complete in `d33aeaf`; ODD-006b is complete in `79417df`.
