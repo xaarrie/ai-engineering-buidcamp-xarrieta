@@ -25,8 +25,8 @@ The agent lessons currently exist only as Python notebooks. Learners following t
 
 ## Delivery Strategy
 
-- Strategy: `ask-on-risk`.
-- Forecast: approximately 600 authored lines across two independent lesson work units; if the running total exceeds 400 lines, ask once for a chain strategy before the next commit.
+- Strategy: `exception-ok` — user explicitly chose to keep the review-sized work units on the current branch.
+- Forecast: approximately 600 authored lines across two independent lesson work units; the user chose the current branch instead of a chain strategy on 2026-10-09.
 
 ## Tasks
 
@@ -34,16 +34,16 @@ The agent lessons currently exist only as Python notebooks. Learners following t
   - Route: delegated direct; preparation and implementation require current Agent Framework tool API verification.
   - Acceptance: a standalone lesson defines a deterministic local tool, passes it to an Agent Framework agent, shows session/tool-calling flow, and includes an offline fixture that proves local tool behavior without a model call.
   - Checks: compile the file app; run its offline fixture; do not call external services.
-  - Evidence: implemented in `dotnet/03-Agents/AgenticLoop_dotnet.cs`; offline and compile checks were attempted without restore, but both stopped before compilation because the file-app restore assets were not cached (`NETSDK1004`, missing `obj/project.assets.json`). The task remains unchecked until those local assets are available.
+  - Evidence: after user-authorized NuGet restore, `dotnet build dotnet/03-Agents/AgenticLoop_dotnet.cs` succeeded and `dotnet run --file dotnet/03-Agents/AgenticLoop_dotnet.cs -- --verify` passed. Independent static verification confirmed explicit model binding through `OpenAIClient.GetChatClient(model).AsIChatClient()`, framework-owned tool registration, and the offline branch's no-model/no-environment property. Live model execution was intentionally not run. Commit: `d33aeaf` (`feat(agents): add AgenticLoop .NET lesson`).
 
-- [ ] **ODD-006b — Agentic RAG lesson**
+- [x] **ODD-006b — Agentic RAG lesson**
   - Route: delegated direct; combines a lesson migration with existing ingestion, lexical-index, and context-formatting utilities.
   - Acceptance: a standalone lesson contrasts manual RAG with a tool-enabled agent, uses typed output, handles no-result retrieval, and has deterministic offline verification for the local RAG/tool path.
   - Checks: compile the file app; run offline fixtures; do not call external services.
-  - Evidence: after user-authorized NuGet restore, `dotnet build dotnet/03-Agents/AgenticLoop_dotnet.cs` succeeded and `dotnet run --file dotnet/03-Agents/AgenticLoop_dotnet.cs -- --verify` passed. Independent static verification confirmed explicit model binding through `OpenAIClient.GetChatClient(model).AsIChatClient()`, framework-owned tool registration, and the offline branch's no-model/no-environment property. Live model execution was intentionally not run.
+  - Evidence: `dotnet build "dotnet/03-Agents/AgenticRAG_v1_dotnet.cs"` succeeded after local NuGet restore; `dotnet run --file "dotnet/03-Agents/AgenticRAG_v1_dotnet.cs" -- --verify` passed retrieval success/no-result/validation, deterministic context, and typed-contract serialization checks. Live model/API, GitHub, and document-download execution was intentionally not run.
 
 ## Progress
 
 - Exploration complete: two Python notebooks map to `AgenticLoop_dotnet.cs` and `AgenticRAG_v1_dotnet.cs`.
 - Current Agent Framework evidence confirms `ChatClientAgent` accepts `IList<AITool>` and function tools can be built with `AIFunctionFactory`.
-- ODD-006a complete; next step: commit its standalone lesson and then implement ODD-006b.
+- ODD-006a is complete in `d33aeaf`; ODD-006b is implemented, verified offline, and ready for its work-unit commit.
