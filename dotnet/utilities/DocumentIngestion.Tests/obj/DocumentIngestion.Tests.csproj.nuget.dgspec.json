@@ -10,14 +10,13 @@
         "projectUniqueName": "C:\\Data\\formacion\\ai-engineering-buildcamp\\dotnet\\utilities\\DocumentIngestion.Tests\\DocumentIngestion.Tests.csproj",
         "projectName": "DocumentIngestion.Tests",
         "projectPath": "C:\\Data\\formacion\\ai-engineering-buildcamp\\dotnet\\utilities\\DocumentIngestion.Tests\\DocumentIngestion.Tests.csproj",
-        "packagesPath": "C:\\Data\\formacion\\ai-engineering-buildcamp\\dotnet\\Source\\Packages",
+        "packagesPath": "C:\\Users\\biarunxa\\.nuget\\packages\\",
         "outputPath": "C:\\Data\\formacion\\ai-engineering-buildcamp\\dotnet\\utilities\\DocumentIngestion.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Data\\formacion\\ai-engineering-buildcamp\\dotnet\\NuGet.Config",
           "C:\\Users\\biarunxa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -26,9 +25,8 @@
           "net10.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/IBERNOVA/_packaging/ibernovasuitepkg/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/IBERNOVA/ddec7ab2-ffed-4f95-8ffe-465ebf97d251/_packaging/ibernovaerpkg/nuget/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
@@ -357,14 +355,13 @@
         "projectUniqueName": "C:\\Data\\formacion\\ai-engineering-buildcamp\\dotnet\\utilities\\DocumentIngestion\\DocumentIngestion.csproj",
         "projectName": "DocumentIngestion",
         "projectPath": "C:\\Data\\formacion\\ai-engineering-buildcamp\\dotnet\\utilities\\DocumentIngestion\\DocumentIngestion.csproj",
-        "packagesPath": "C:\\Data\\formacion\\ai-engineering-buildcamp\\dotnet\\Source\\Packages",
+        "packagesPath": "C:\\Users\\biarunxa\\.nuget\\packages\\",
         "outputPath": "C:\\Data\\formacion\\ai-engineering-buildcamp\\dotnet\\utilities\\DocumentIngestion\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Data\\formacion\\ai-engineering-buildcamp\\dotnet\\NuGet.Config",
           "C:\\Users\\biarunxa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -373,9 +370,8 @@
           "net10.0"
         ],
         "sources": {
-          "https://api.nuget.org/v3/index.json": {},
-          "https://pkgs.dev.azure.com/IBERNOVA/_packaging/ibernovasuitepkg/nuget/v3/index.json": {},
-          "https://pkgs.dev.azure.com/IBERNOVA/ddec7ab2-ffed-4f95-8ffe-465ebf97d251/_packaging/ibernovaerpkg/nuget/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net10.0": {
